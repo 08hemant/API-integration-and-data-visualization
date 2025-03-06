@@ -1,0 +1,25 @@
+X-Axis (Date and Time): This will display the date and time of the weather forecasts.
+
+Y-Axis (Temperature): This will show the temperature in degrees Celsius.
+
+Line Plot: A line plot will connect the temperature values, showing the trend over time.
+
+Markers: Each data point (temperature value) will be marked with a small circle for better visibility.
+
+Grid Lines: Grid lines will help you easily read the values on the plot.
+
+Title and Labels: The plot will have a title indicating the city (Bhopal) and labeled axes for clarity.
+
+Here's an example of what the output might look like:
+
+plaintext
+Temperature Trend in Bhopal
+|                     o           
+|                  o
+|              o
+|           o
+|       o
+|    o
+|o
++---------------------------------
+Date and Time
